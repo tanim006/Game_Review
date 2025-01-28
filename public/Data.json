@@ -1,185 +1,188 @@
 [
-    {
-      "id": 1,
-      "name": "SANIB X SUPERMAN",
-      "position": "Duelist",
-      "agentName": "Reyna",
-      "details": "Reyna is a self-sustaining duelist who can heal and become invulnerable after killing an enemy. Her abilities allow her to dominate in 1v1 combat situations.",
-      "image": "https://i.postimg.cc/CxK1G3jd/Reyna-Wallpaper-1.jpg",
-      "abilities": [
-        {
-          "name": "Dismissing",
-          "description": "Reyna dashes in a chosen direction, becoming invulnerable for a short period."
-        },
-        {
-          "name": "Leer",
-          "description": "Reyna throws an orb that nearsights enemies in its line of sight."
-        },
-        {
-          "name": "Soul Orbs",
-          "description": "Reyna absorbs the soul of any killed enemies to heal or empower herself."
-        },
-        {
-          "name": "Ultimate: Empress",
-          "description": "Reyna becomes empowered, gaining increased fire rate and the ability to heal herself upon getting kills."
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "TANIM X RORONOA ZORO",
-      "position": "Sentinel",
-      "agentName": "Cypher",
-      "details": "Cypher is a utility expert who specializes in gathering information and securing areas. His gadgets can trap enemies and reveal their positions.",
-      "image": "https://i.postimg.cc/4yTvnfHY/Valorant-EP8-Teaser-Cypher-Reborn.jpg",
-      "abilities": [
-        {
-          "name": "Trapwire",
-          "description": "Cypher deploys a tripwire that, when triggered, slows and reveals enemies."
-        },
-        {
-          "name": "Spycam",
-          "description": "Cypher places a camera that can be remotely controlled to scout enemies."
-        },
-        {
-          "name": "Cyber Cage",
-          "description": "Cypher throws a device that creates a cage, blocking enemies' line of sight."
-        },
-        {
-          "name": "Ultimate: Neural Theft",
-          "description": "Cypher extracts information from the body of a dead enemy, revealing all remaining enemies' positions."
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "ASHRAFUL X EYECON",
-      "position": "Sentinel",
-      "agentName": "Sage",
-      "details": "Sage is a support agent who excels at healing and creating defensive structures. Her abilities can protect her teammates and prevent enemies from advancing.",
-      "image": "https://i.postimg.cc/YSGCVQDH/VALORANT-Sage-dark.jpg",
-      "abilities": [
-        {
-          "name": "Healing Orb",
-          "description": "Sage heals an ally or herself over time."
-        },
-        {
-          "name": "Slow Orb",
-          "description": "Sage deploys a slowing field that impedes enemy movement."
-        },
-        {
-          "name": "Resurrection",
-          "description": "Sage can revive a dead teammate, bringing them back into the fight."
-        },
-        {
-          "name": "Ultimate: Barrier Orb",
-          "description": "Sage places a large barrier that blocks movement and sight."
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "NABIL X SCOOBDO",
-      "position": "Controller",
-      "agentName": "Viper",
-      "details": "Viper is a Controller agent who uses toxic gas to control areas of the map. She specializes in area denial and can cut off sightlines or choke points with her poisonous abilities. Viper is most effective when she has the opportunity to control space and prevent enemies from advancing.",
-      "image": "https://i.postimg.cc/HkjYcQgy/VALORANT-Viper.jpg",
-      "abilities": [
-        {
-          "name": "Snake Bite",
-          "description": "Viper launches a projectile that explodes on impact, creating a pool of toxic acid that damages enemies standing in it."
-        },
-        {
-          "name": "Toxic Screen",
-          "description": "Viper deploys a long line of toxic gas emitters, creating a large wall that obstructs vision and damages enemies within it."
-        },
-        {
-          "name": "Poison Cloud",
-          "description": "Viper throws a gas canister that releases a toxic cloud, which can be manually activated to block vision and deal damage to enemies within its radius."
-        },
-        {
-          "name": "Ultimate: Viper’s Pit",
-          "description": "Viper creates a large toxic zone that drastically reduces the vision of enemies within it and continuously damages them. The pit lasts as long as Viper remains inside it."
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "SABAB X SENS'HEIS",
-      "position": "Duelist",
-      "agentName": "Phoenix",
-      "details": "Phoenix is a self-sufficient duelist with the power to heal and create fire walls. His abilities allow him to control space and initiate fights.",
-      "image": "https://i.postimg.cc/c4x4WpkT/VALORANT-Phoenix-Dark.jpg",
-      "abilities": [
-        {
-          "name": "Blaze",
-          "description": "Phoenix creates a wall of flame that blocks vision and damages enemies passing through it."
-        },
-        {
-          "name": "Curveball",
-          "description": "Phoenix throws a flashbang that curves around corners to blind enemies."
-        },
-        {
-          "name": "Hot Hands",
-          "description": "Phoenix throws a fireball that heals him or damages enemies."
-        },
-        {
-          "name": "Ultimate: Run It Back",
-          "description": "Phoenix marks a location and can respawn there if he is killed during his ultimate's duration."
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "SANDEEP X ....",
-      "position": "Sentinel",
-      "agentName": "Chamber",
-      "details": "Chamber is a sharpshooter sentinel who excels at holding angles and providing support with his gadgets. His precision and ability to lock down areas are key to his playstyle.",
-      "image": "https://i.postimg.cc/kMFXkJsB/1282492.jpg",
-      "abilities": [
-        {
-          "name": "Trademark",
-          "description": "Chamber deploys a device that slows and alerts him to enemy movement in a selected area."
-        },
-        {
-          "name": "Headhunter",
-          "description": "Chamber equips a powerful pistol that allows him to deliver precise shots with high damage."
-        },
-        {
-          "name": "Rendezvous",
-          "description": "Chamber places teleport anchors that allow him to teleport to them, giving him better positioning."
-        },
-        {
-          "name": "Ultimate: Tour De Force",
-          "description": "Chamber equips a powerful sniper rifle that can deal massive damage and slow enemies with each shot."
-        }
-      ]
-    },
-    
-    {
-      "id": 7,
-      "name": "SHAKIB X BLINDMAN",
-      "position": "Initiator",
-      "agentName": "Gekko",
-      "details": "Gekko is an initiator with abilities that disrupt and disorient enemies. He excels at creating opportunities for his team to push forward and take control of objectives.",
-      "image": "https://i.postimg.cc/BbsZXkSS/1305483.png",
-      "abilities": [
-        {
-          "name": "Vibroblast",
-          "description": "Gekko throws a device that emits a shockwave, disorienting and deafening enemies in its radius."
-        },
-        {
-          "name": "Toxic Stream",
-          "description": "Gekko deploys a stream of toxic gas that deals damage and creates a dangerous zone for enemies to avoid."
-        },
-        {
-          "name": "Tracker Drone",
-          "description": "Gekko releases a drone that seeks out and tracks enemy locations."
-        },
-        {
-          "name": "Ultimate: Overload",
-          "description": "Gekko activates an overload device that boosts his abilities for a short period, allowing him to disrupt enemies even further."
-        }
-      ]
-    }
+  {
+    "id": 1,
+    "name": "SANIB X SUPERMAN",
+    "position": "Duelist",
+    "agentName": "Reyna",
+    "details": "Reyna is a self-sustaining duelist who can heal and become invulnerable after killing an enemy. Her abilities allow her to dominate in 1v1 combat situations. She is perfect for aggressive players who want to take control of the battlefield and keep themselves alive during intense firefights.",
+    "image": "https://i.postimg.cc/CxK1G3jd/Reyna-Wallpaper-1.jpg",
+    "abilities": [
+      {
+        "name": "Dismissing",
+        "description": "Reyna dashes in a chosen direction, becoming invulnerable for a short period. This ability allows her to reposition quickly and escape dangerous situations, making her highly effective at getting in and out of combat. The invulnerability aspect ensures that she cannot be damaged during her dash, making it an essential escape or engagement tool."
+      },
+      {
+        "name": "Leer",
+        "description": "Reyna throws an orb that nearsights enemies in its line of sight. The orb temporarily blocks the vision of enemies, making it easier for Reyna to attack them without being seen. It’s a great tool for clearing chokepoints or engaging enemies from a safer distance."
+      },
+      {
+        "name": "Soul Orbs",
+        "description": "Reyna absorbs the soul of any killed enemies to heal or empower herself. Each soul orb she collects restores a portion of her health or increases her power, making her an incredibly self-sufficient agent. This ability allows Reyna to keep fighting without relying on healing from teammates, and it can turn the tide of battle if used effectively."
+      },
+      {
+        "name": "Ultimate: Empress",
+        "description": "Reyna becomes empowered, gaining increased fire rate and the ability to heal herself upon getting kills. This ultimate ability boosts Reyna’s combat effectiveness significantly, allowing her to deal more damage while also healing. It makes her an extremely dangerous force in 1v1 duels and is especially powerful when she’s on a killstreak."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "TANIM X RORONOA ZORO",
+    "position": "Sentinel",
+    "agentName": "Cypher",
+    "details": "Cypher is a utility expert who specializes in gathering information and securing areas. His gadgets can trap enemies and reveal their positions, allowing his team to have better control of the map. Cypher is a strategic agent, perfect for players who enjoy a more tactical playstyle, setting up traps, and gathering intelligence for the team.",
+    "image": "https://i.postimg.cc/4yTvnfHY/Valorant-EP8-Teaser-Cypher-Reborn.jpg",
+    "abilities": [
+      {
+        "name": "Trapwire",
+        "description": "Cypher deploys a tripwire that, when triggered, slows and reveals enemies. This ability is perfect for defending key areas and stopping enemies in their tracks. The tripwire is a silent alert system that lets Cypher know when an enemy has passed through a critical point, giving him and his team an opportunity to react."
+      },
+      {
+        "name": "Spycam",
+        "description": "Cypher places a camera that can be remotely controlled to scout enemies. The Spycam allows Cypher to monitor enemy movement in real time, providing crucial intelligence to his team. It’s perfect for setting up surveillance in critical areas and for gathering information when preparing for a push."
+      },
+      {
+        "name": "Cyber Cage",
+        "description": "Cypher throws a device that creates a cage, blocking enemies' line of sight. This ability can be used to disrupt enemy vision and prevent them from advancing. When activated, it forms a temporary barrier that can be used strategically to block sightlines or slow enemies down in key locations."
+      },
+      {
+        "name": "Ultimate: Neural Theft",
+        "description": "Cypher extracts information from the body of a dead enemy, revealing all remaining enemies' positions. This ultimate ability gives Cypher and his team a huge advantage by exposing the location of all enemy players, allowing them to anticipate enemy movements and make well-informed decisions on where to push or defend."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ASHRAFUL X EYECON",
+    "position": "Sentinel",
+    "agentName": "Sage",
+    "details": "Sage is a support agent who excels at healing and creating defensive structures. Her abilities can protect her teammates and prevent enemies from advancing. Sage is vital in team compositions that require sustain and defensive control, and her utility can keep teammates alive during crucial moments of a match.",
+    "image": "https://i.postimg.cc/YSGCVQDH/VALORANT-Sage-dark.jpg",
+    "abilities": [
+      {
+        "name": "Healing Orb",
+        "description": "Sage heals an ally or herself over time. This ability is perfect for keeping teammates in the fight by regenerating their health. Whether you’re healing a teammate in a safe position or self-healing after taking damage, Sage’s Healing Orb is essential for maintaining team longevity."
+      },
+      {
+        "name": "Slow Orb",
+        "description": "Sage deploys a slowing field that impedes enemy movement. This ability is incredibly useful for slowing down enemy pushes and controlling choke points. It can be deployed strategically to delay enemies' advances or to block their escape routes, giving her team a significant tactical advantage."
+      },
+      {
+        "name": "Resurrection",
+        "description": "Sage can revive a dead teammate, bringing them back into the fight. This powerful ability can turn the tide of battle by bringing a fallen teammate back into the game. It requires good timing and positioning, as it takes a few seconds to cast, but it can save critical rounds and increase the chances of a comeback."
+      },
+      {
+        "name": "Ultimate: Barrier Orb",
+        "description": "Sage places a large barrier that blocks movement and sight. The Barrier Orb creates a massive wall that can block enemy pushes or cut off sightlines. This is an incredibly versatile tool for both offensive and defensive plays, allowing Sage to control space and protect her team from enemy advances."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "NABIL X SCOOBDO",
+    "position": "Controller",
+    "agentName": "Viper",
+    "details": "Viper is a Controller agent who uses toxic gas to control areas of the map. She specializes in area denial and can cut off sightlines or choke points with her poisonous abilities. Viper is most effective when she has the opportunity to control space and prevent enemies from advancing. Her kit is perfect for zoning out enemies and setting up advantageous situations for her team.",
+    "image": "https://i.postimg.cc/HkjYcQgy/VALORANT-Viper.jpg",
+    "abilities": [
+      {
+        "name": "Snake Bite",
+        "description": "Viper launches a projectile that explodes on impact, creating a pool of toxic acid that damages enemies standing in it. This ability is ideal for controlling key areas, denying enemy access, and dealing consistent damage over time to anyone trapped within its area. It’s perfect for pushing enemies out of cover or forcing them to reposition."
+      },
+      {
+        "name": "Toxic Screen",
+        "description": "Viper deploys a long line of toxic gas emitters, creating a large wall that obstructs vision and damages enemies within it. This ability allows Viper to block enemy sightlines and control key areas of the map. It’s ideal for blocking entrances or cutting off paths of retreat."
+      },
+      {
+        "name": "Poison Cloud",
+        "description": "Viper throws a gas canister that releases a toxic cloud, which can be manually activated to block vision and deal damage to enemies within its radius. The Poison Cloud is a great tool for disrupting enemy plans and blocking visibility in crucial areas. It can be strategically placed in chokepoints or used to delay enemy advances."
+      },
+      {
+        "name": "Ultimate: Viper’s Pit",
+        "description": "Viper creates a large toxic zone that drastically reduces the vision of enemies within it and continuously damages them. The pit lasts as long as Viper remains inside it, making it perfect for controlling key areas or holding an objective. It can quickly turn the tide of battle by weakening enemy players and limiting their vision."
+      }
+    ]
+  }, 
+  {
+    "id": 5,
+    "name": "SABAB X SENS'HEIS",
+    "position": "Duelist",
+    "agentName": "Phoenix",
+    "details": "Phoenix is a self-sufficient duelist with the power to heal and create fire walls. His abilities allow him to control space and initiate fights.",
+    "image": "https://i.postimg.cc/c4x4WpkT/VALORANT-Phoenix-Dark.jpg",
+    "abilities": [
+      {
+        "name": "Blaze",
+        "description": "Phoenix creates a wall of flame that blocks vision and damages enemies passing through it."
+      },
+      {
+        "name": "Curveball",
+        "description": "Phoenix throws a flashbang that curves around corners to blind enemies."
+      },
+      {
+        "name": "Hot Hands",
+        "description": "Phoenix throws a fireball that heals him or damages enemies."
+      },
+      {
+        "name": "Ultimate: Run It Back",
+        "description": "Phoenix marks a location and can respawn there if he is killed during his ultimate's duration."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "SANDEEP X ....",
+    "position": "Sentinel",
+    "agentName": "Chamber",
+    "details": "Chamber is a sharpshooter sentinel who excels at holding angles and providing support with his gadgets. His precision and ability to lock down areas are key to his playstyle.",
+    "image": "https://i.postimg.cc/kMFXkJsB/1282492.jpg",
+    "abilities": [
+      {
+        "name": "Trademark",
+        "description": "Chamber deploys a device that slows and alerts him to enemy movement in a selected area."
+      },
+      {
+        "name": "Headhunter",
+        "description": "Chamber equips a powerful pistol that allows him to deliver precise shots with high damage."
+      },
+      {
+        "name": "Rendezvous",
+        "description": "Chamber places teleport anchors that allow him to teleport to them, giving him better positioning."
+      },
+      {
+        "name": "Ultimate: Tour De Force",
+        "description": "Chamber equips a powerful sniper rifle that can deal massive damage and slow enemies with each shot."
+      }
+    ]
+  },
+  
+  {
+    "id": 7,
+    "name": "SHAKIB X BLINDMAN",
+    "position": "Initiator",
+    "agentName": "Gekko",
+    "details": "Gekko is an initiator with abilities that disrupt and disorient enemies. He excels at creating opportunities for his team to push forward and take control of objectives.",
+    "image": "https://i.postimg.cc/BbsZXkSS/1305483.png",
+    "abilities": [
+      {
+        "name": "Vibroblast",
+        "description": "Gekko throws a device that emits a shockwave, disorienting and deafening enemies in its radius."
+      },
+      {
+        "name": "Toxic Stream",
+        "description": "Gekko deploys a stream of toxic gas that deals damage and creates a dangerous zone for enemies to avoid."
+      },
+      {
+        "name": "Tracker Drone",
+        "description": "Gekko releases a drone that seeks out and tracks enemy locations."
+      },
+      {
+        "name": "Ultimate: Overload",
+        "description": "Gekko activates an overload device that boosts his abilities for a short period, allowing him to disrupt enemies even further."
+      }
+    ]
+  }
 ]
+
+
+
