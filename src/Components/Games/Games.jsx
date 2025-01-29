@@ -1,11 +1,16 @@
 import React from 'react';
+import GameBanner from '../GameBanner/GameBanner';
+import GameSecondBanner from '../GameSecondBanner/GameSecondBanner';
+
 
 const Games = () => {
   return (
-    <div>
-      <h1>This is the Game page</h1>
-      {/* Add game-specific content here */}
-    </div>
+          <div>
+           
+            <GameSecondBanner></GameSecondBanner>
+    
+    
+          </div>
   );
 };
 

@@ -65,7 +65,7 @@ const Navbar = () => {
                             {links}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost text-3xl font-anton">Book Fist</a>
+                    <a className="btn btn-ghost text-4xl font-bold  font-anton">SOA AGENTS</a>
                 </div>
                 <div className="navbar-center hidden lg:flex gap-x-4">
                     {links}
