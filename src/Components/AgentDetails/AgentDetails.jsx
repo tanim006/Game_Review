@@ -1,4 +1,5 @@
 import React from "react";
+import { Helmet } from "react-helmet-async";
 import { useLoaderData, useParams } from "react-router-dom";
 
 const AgentDetails = () => {
@@ -14,6 +15,7 @@ const AgentDetails = () => {
 
   return (
     <div>
+        <Helmet><title>RIOT GAMES | AGENT DETAILS</title></Helmet>
       <div className="mt-20">
         <h1 className="text-8xl font-semibold font-sans ">SOA AGENT</h1>
         <p className="text-8xl font-bold font-sans text-red-500">{agentDetails.name}</p>

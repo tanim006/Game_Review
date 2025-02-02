@@ -7,7 +7,7 @@ const Banner = () => {
             <div className='absolute inset-0 bg-[#FF4655]  rounded-xl' />
             <div className='flex items-center justify-between p-10 rounded-xl text-white relative'>
                 <div>
-                    <h1 className='text-8xl font-bold font-sans'>MEDIA OF VALORANT</h1>
+                    <h1 className='text-8xl font-bold font-sans'>MEDIA OF SOA AGENTS</h1>
                     <p className='w-6xl text-lg mt-5 font-semibold'>
                         Our work is your play. Whether you're press, a content creator or something in between, if you see it here it's yours to use. Don't forget, if you create something with these files, tag @VALORANT on social media. We cannot wait to see what you make, just remember to keep in mind our Legal Jibber Jabber.
                     </p>
